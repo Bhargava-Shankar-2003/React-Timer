@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://Bhargava-Shankar-2003.github.io/React-Timer",
+  "homepage": "https://bhargava-shankar-2003.github.io/React-Timer",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
