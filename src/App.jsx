@@ -2,7 +2,7 @@ import React from 'react'
 import { Stopwatch } from './Stopwatch';
 import { useStopwatch } from './Stopwatch';
 import { useState } from 'react';
-import timerIcon from "../src/assets/timer.svg"
+import timerIcon from "./assets/timer.svg"
 import "./App.css"
 
 
